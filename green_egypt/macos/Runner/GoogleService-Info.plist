@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>258314657469-2cp34oc2t16pmm2ao8r6h3huogoba270.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.258314657469-2cp34oc2t16pmm2ao8r6h3huogoba270</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4BrlO6JCkuPSfyYamxaT2VHmzIcMySqM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>258314657469</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tech.mavica.greenEgypt</string>
+	<key>PROJECT_ID</key>
+	<string>graduation-713d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>graduation-713d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:258314657469:ios:7da5aebdae4ff4b7b421d4</string>
+</dict>
+</plist>

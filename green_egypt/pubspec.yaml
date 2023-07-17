@@ -1,0 +1,93 @@
+name: green_egypt
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.1+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  animated_splash_screen: ^1.3.0
+  bottom_navy_bar: ^6.0.0
+  cloud_firestore: ^4.8.1
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.4.0
+  firebase_storage: ^11.0.2
+  flutter:
+    sdk: flutter
+  flutter_facebook_auth: ^5.0.8
+  flutter_rating_bar: ^4.0.1
+  fluttertoast: ^8.2.1
+  font_awesome_flutter: ^10.2.1
+  get: ^4.6.5
+  google_sign_in: ^5.4.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.17.0
+  lottie: ^2.2.0
+  quickalert: ^1.0.1
+  responsive_sizer: ^3.1.1
+  shared_preferences: ^2.0.18
+  smooth_page_indicator: ^1.0.0+2
+  smooth_star_rating_null_safety: ^1.0.4+2
+  syncfusion_flutter_barcodes: ^22.1.34
+  url_launcher: ^6.1.10
+dev_dependencies:
+  badges: ^3.0.2
+  build_runner: null
+  cached_network_image: ^3.2.3
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+  hive_generator: null
+  qr_code_scanner: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/animated_vectors/
+    - assets/icons/
+    - assets/introduction_images/
+    - assets/images/
+    - assets/fonts/
+    - assets/images/main_page_images/
+    - assets/images/friendly_tips_images/
+    - assets/images/splach_screen_images/
+    - shorebird.yaml
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Roboto_Bold
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+    - family: Roboto_Thin
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,15 @@
+
+
+
+*********************** Qrcode Pattern *****************************
+
+GE-A1,last_operation_number,number_pastic,number_cans,date,time
+
+ * readed data form from qrcode : 'GE-A1,${OperationsBox.instance.lastOperationNumber},${blueController.plastic_items},${blueController.cans_items},${DateFormat('yyyy-MM-dd').format(DateTime.now())},${DateFormat.Hms().format(DateTime.now())}',                 
+         * 1. name of machine : GE-A1 "String" .
+         * 2. last operation number to prevent user from scanning the same qrcode multiple times "int" .
+         * 3. number of plastic items "int" .
+         * 4. number of cans items "int" .
+         * 5. date "String" .
+         * 6. time "String" . 
+         */

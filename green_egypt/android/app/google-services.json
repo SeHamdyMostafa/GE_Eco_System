@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "448811679409",
+    "project_id": "green-egypt-f80b9",
+    "storage_bucket": "green-egypt-f80b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448811679409:android:3c0985348c7ea715aeec90",
+        "android_client_info": {
+          "package_name": "tech.mavica.green_egypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448811679409-m804l0bdgqv6k4s4au3jngqubir79frf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.mavica.green_egypt",
+            "certificate_hash": "c0766a50831d01b127983f5fd289d5e35e6d771f"
+          }
+        },
+        {
+          "client_id": "448811679409-op22jdur6are3b4hvdfc16dvet4mnfoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.mavica.green_egypt",
+            "certificate_hash": "842a6c3d0f1bcc9c432db0a541e1dad2c92ccb60"
+          }
+        },
+        {
+          "client_id": "448811679409-5kpkgv5glhiau21ij9n54m2r16cqh7v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzui1J-zbTgMbiwoUAnNB5bG6RfEyENs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448811679409-5kpkgv5glhiau21ij9n54m2r16cqh7v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448811679409-ge4p8hp974b5lilv4o9fiq1dh1t3t09u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.mavica.greenEgypt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
