@@ -108,7 +108,7 @@ Tried Google Ml Kit project : https://pub.dev/packages/google_mlkit_object_detec
 ## 📅 13/07/2023 "Bluetooth Controller implemented" by Salah Ayman and AMG :
 as we need to implement connection between all eco-system components , we implemented bluetooth cotroller that responsible for sending all Signals depending on detection result .
 
+## 📅 14/07/2023 "tflite model "bottle detection or color detection" is added.
 
 ## Future work 'Adding transactions cloud backup".
 
-## Future work 'will be implemented by shady - Alaa and AMG': need to create our custom tflite model "bottle detection or color detection".
