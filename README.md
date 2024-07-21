@@ -150,10 +150,9 @@ as we need to implement connection between all eco-system components , we implem
 
 <img src = "https://blogger.googleusercontent.com/img/a/AVvXsEjFVwglBWwyyoebRUM0L6Mows4fMlLikdq4CYvrFD8mPZQIPPh4-rlSAeBXovh1cFsYrgJD3D-5x5GqZXdQJne8v9E4v6sNP_dvF2YxyJcAR4yrsuGK1WgaUYjxms0ye4jBiqgrmIUEJfKghcqFfD2LEUR8pxWojIRGySgsqI--lJ87D9_fjEiRJd-MqUL4=w640-h360" width = 400 height = 300/>
 
-![Uploading photo_27_2024-07-20_19-56-18-portrait.png…]()
 
 
 10-Transaction Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEh_1kJqDwhQF9bnJGAa-5BgewSGQUbxTwMLn44QlH7OngohoEJ_WdeB0wuXmc1HizOmD8vCFjz_zALtA4kshcjD7zt9WCUA0RiXPqE5VeuOQKvvgOzNzWpPWuv1jipw1Xot8pbqfXyQDkXZJeNpWGZ6Kk0jnXVde9DG13OyOIKlPPtIexS8umcorJwi2E6j=w640-h360" width = 400 height = 300/>
+<img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 400 height = 300/>
 
