@@ -116,7 +116,8 @@ as we need to implement connection between all eco-system components , we implem
 
 1- Splash Page
 
-<img src = "" width = 250 height = 450/>
+<img src = "![photo_31_2024-07-20_19-56-18-portrait](https://github.com/user-attachments/assets/a5b88b60-8db3-4e73-9d1d-65a7d37e86b6)
+" width = 250 height = 450/>
 
 2- Register Page 
 
