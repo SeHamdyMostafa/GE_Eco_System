@@ -140,19 +140,19 @@ as we need to implement connection between all eco-system components , we implem
 
 7-Login Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEgg3pBGrtWL_mudQNNwOsWREkzh5Q5vMpEuNuWtVuAK8n9SZi726rK-p1CqoarICJ13m3qsrC0oCMjzH167hdqjhNoLKXIeqTwzLSaNikdK9Dha-Mo7xNqEd91v30i3CiPgC3P9dXsk-XxUVHdM9VYuSxudCa0-qi2NwY3p6tde05AOqHYQsjKwXuKXk7vX=w640-h360" width = 400 height = 300/>
+<img src = "" width = 400 height = 300/>
 
 8-Home Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEgHBHZ4CIuYLkdxhY1ybMz4inDK8ksQycOWCcWFdUiTVmR56Wqg826kS_m4jNSi6CDGlWNDgnYRuASVe3PzBWYYQAQigcg7pfrSb37n7Aj77L4AsnNzaQeTV8KIzYw4j_XXo9eqkR0AOzjJlGys8FMhxf4rwgC1YiZdxNh8n5YRLBIvEUJMUI3B9t2F-INZ=w640-h360" width = 400 height = 300/>
+<img src = "" width = 400 height = 300/>
 
 9-Get Cash Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEjFVwglBWwyyoebRUM0L6Mows4fMlLikdq4CYvrFD8mPZQIPPh4-rlSAeBXovh1cFsYrgJD3D-5x5GqZXdQJne8v9E4v6sNP_dvF2YxyJcAR4yrsuGK1WgaUYjxms0ye4jBiqgrmIUEJfKghcqFfD2LEUR8pxWojIRGySgsqI--lJ87D9_fjEiRJd-MqUL4=w640-h360" width = 400 height = 300/>
+<img src = "" width = 300 height = 450/>
 
 
 
 10-Transaction Page
 
-<img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 300 height = 450/>
+<img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 250 height = 450/>
 
