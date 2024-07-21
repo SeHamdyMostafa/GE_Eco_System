@@ -116,5 +116,5 @@ as we need to implement connection between all eco-system components , we implem
 
 1- Splash Page
 
-    <img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiGbwnLVkeC-ScspujeY9XQG4x4iPa24wO8_XfI2kK80p_zwZ3VJa9tig2zJ9XmsGM2LIZ9nyP6bK20XoxDi2xYAG8jNkXCoqr_0MwD4HW-HtcC-ku8kZuV5d0cj5VIQhpvWwun2_pp_a9ipqVaAfW_eFI9Ang78Z9pB0vEuaQNnNWkIBQnoqhExQLlnaIt=w640-h360" width = 200 height = 200/>
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiGbwnLVkeC-ScspujeY9XQG4x4iPa24wO8_XfI2kK80p_zwZ3VJa9tig2zJ9XmsGM2LIZ9nyP6bK20XoxDi2xYAG8jNkXCoqr_0MwD4HW-HtcC-ku8kZuV5d0cj5VIQhpvWwun2_pp_a9ipqVaAfW_eFI9Ang78Z9pB0vEuaQNnNWkIBQnoqhExQLlnaIt=w640-h360" width = 200 height = 200/>
 
