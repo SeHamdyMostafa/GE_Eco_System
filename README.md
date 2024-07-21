@@ -154,5 +154,5 @@ as we need to implement connection between all eco-system components , we implem
 
 10-Transaction Page
 
-<img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 400 height = 300/>
+<img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 100 height = 100/>
 
