@@ -152,5 +152,5 @@ as we need to implement connection between all eco-system components , we implem
 
 10-Transaction Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEh_1kJqDwhQF9bnJGAa-5BgewSGQUbxTwMLn44QlH7OngohoEJ_WdeB0wuXmc1HizOmD8vCFjz_zALtA4kshcjD7zt9WCUA0RiXPqE5VeuOQKvvgOzNzWpPWuv1jipw1Xot8pbqfXyQDkXZJeNpWGZ6Kk0jnXVde9DG13OyOIKlPPtIexS8umcorJwi2E6j=w640-h360" width = 600 height = 400/>
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEh_1kJqDwhQF9bnJGAa-5BgewSGQUbxTwMLn44QlH7OngohoEJ_WdeB0wuXmc1HizOmD8vCFjz_zALtA4kshcjD7zt9WCUA0RiXPqE5VeuOQKvvgOzNzWpPWuv1jipw1Xot8pbqfXyQDkXZJeNpWGZ6Kk0jnXVde9DG13OyOIKlPPtIexS8umcorJwi2E6j=w640-h360" width = 600 height = 500/>
 
