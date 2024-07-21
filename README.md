@@ -116,43 +116,44 @@ as we need to implement connection between all eco-system components , we implem
 
 1- Splash Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiGbwnLVkeC-ScspujeY9XQG4x4iPa24wO8_XfI2kK80p_zwZ3VJa9tig2zJ9XmsGM2LIZ9nyP6bK20XoxDi2xYAG8jNkXCoqr_0MwD4HW-HtcC-ku8kZuV5d0cj5VIQhpvWwun2_pp_a9ipqVaAfW_eFI9Ang78Z9pB0vEuaQNnNWkIBQnoqhExQLlnaIt=w640-h360" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 2- Register Page 
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEhbhyl1YqCErPkodcV9rKPp3D5qN-cNLVwUjoKnqX_32nWndHkby7ayrBXbPnikhVpIaWR3foFcNMq3FZikQg-Y9H5qSg30CzKW48nLC1y57f2PDaUJ1vLz-H8fSK8K4yr1COW-ZAiLtxhydOn3DFvZvRyvA9jX8Ajb0q9Y94A_C9QKPFz9kDP4Vy7Azr2N=w640-h360" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 3- Intro Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEjmzr8F_pdWF1S8LCcpYxV_TfsLngO9zJj1ASL0WUbBZARUiI6CEZ4w9ZZ9_-qQeXnz5mk9H8reS0wkZdHL8cPw-x1Oqbmqm5yEen0MrUz-WpwgRvqykM6beVY3ZvjNVeNjU7qysDBWm71Ghq4N-mtGCU8XJo4N_eCXk0CqtmrvqvicVsPdYo_KUDPG-XdR=w640-h360" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 4-Start Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiooU_XhJWWjKfwlCI7-rPL2Xk2IfvSfrlXLaLqmxAriAFWjqLcND8GWWfP3N5GsRAK79rCjLEQfcVgTpVB_iNdvVd-gFsxLx2eGiuVfREzhrANY0ZkR-ZDWIv3ureJj15cdul7yU8AgKz0c1F47yho67QIbVA9UwvTYK0_xBHwCvW5rNqzcTU-jxPK2pEf=w640-h360" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 5-Scan Qr Code Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEjxh-QDv9sfKGAamyzEJOPaHkLU89i9CECoAYusZByLBMXA-T-PvjH5JEbUcOMhUNlQ-ef-s1TWvmUQAHVCmZMbnENqfbaAzPWhqlbEr1X3U9qLSQRzZ-YssN9ninOQuU5w5i3JbCEB70JtotAWG-2ZfE1aImCu3DyTcbPcoYzdUXIGzjuteubY19abTIH2=w640-h360" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 6-
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiGbwnLVkeC-ScspujeY9XQG4x4iPa24wO8_XfI2kK80p_zwZ3VJa9tig2zJ9XmsGM2LIZ9nyP6bK20XoxDi2xYAG8jNkXCoqr_0MwD4HW-HtcC-ku8kZuV5d0cj5VIQhpvWwun2_pp_a9ipqVaAfW_eFI9Ang78Z9pB0vEuaQNnNWkIBQnoqhExQLlnaIt=w640-h360" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 7-Login Page
 
-<img src = "" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 8-Home Page
 
-<img src = "" width = 400 height = 300/>
+<img src = "" width = 250 height = 450/>
 
 9-Get Cash Page
 
-<img src = "" width = 300 height = 450/>
+<img src = "" width = 250 height = 450/>
 
 
 
 10-Transaction Page
 
-<img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 250 height = 450/>
+<img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 250 height = 450/> <img src = "https://github.com/user-attachments/assets/4510b1c2-2985-4031-a7b6-b4182aa12f1e" width = 250 height = 450/> 
+
 
