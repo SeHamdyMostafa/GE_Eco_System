@@ -116,5 +116,41 @@ as we need to implement connection between all eco-system components , we implem
 
 1- Splash Page
 
-<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiGbwnLVkeC-ScspujeY9XQG4x4iPa24wO8_XfI2kK80p_zwZ3VJa9tig2zJ9XmsGM2LIZ9nyP6bK20XoxDi2xYAG8jNkXCoqr_0MwD4HW-HtcC-ku8kZuV5d0cj5VIQhpvWwun2_pp_a9ipqVaAfW_eFI9Ang78Z9pB0vEuaQNnNWkIBQnoqhExQLlnaIt=w640-h360" width = 400 height = 200/>
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiGbwnLVkeC-ScspujeY9XQG4x4iPa24wO8_XfI2kK80p_zwZ3VJa9tig2zJ9XmsGM2LIZ9nyP6bK20XoxDi2xYAG8jNkXCoqr_0MwD4HW-HtcC-ku8kZuV5d0cj5VIQhpvWwun2_pp_a9ipqVaAfW_eFI9Ang78Z9pB0vEuaQNnNWkIBQnoqhExQLlnaIt=w640-h360" width = 400 height = 300/>
+
+2- Register Page 
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEhbhyl1YqCErPkodcV9rKPp3D5qN-cNLVwUjoKnqX_32nWndHkby7ayrBXbPnikhVpIaWR3foFcNMq3FZikQg-Y9H5qSg30CzKW48nLC1y57f2PDaUJ1vLz-H8fSK8K4yr1COW-ZAiLtxhydOn3DFvZvRyvA9jX8Ajb0q9Y94A_C9QKPFz9kDP4Vy7Azr2N=w640-h360" width = 400 height = 300/>
+
+3- Intro Page
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEjmzr8F_pdWF1S8LCcpYxV_TfsLngO9zJj1ASL0WUbBZARUiI6CEZ4w9ZZ9_-qQeXnz5mk9H8reS0wkZdHL8cPw-x1Oqbmqm5yEen0MrUz-WpwgRvqykM6beVY3ZvjNVeNjU7qysDBWm71Ghq4N-mtGCU8XJo4N_eCXk0CqtmrvqvicVsPdYo_KUDPG-XdR=w640-h360" width = 400 height = 300/>
+
+4-Start Page
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiooU_XhJWWjKfwlCI7-rPL2Xk2IfvSfrlXLaLqmxAriAFWjqLcND8GWWfP3N5GsRAK79rCjLEQfcVgTpVB_iNdvVd-gFsxLx2eGiuVfREzhrANY0ZkR-ZDWIv3ureJj15cdul7yU8AgKz0c1F47yho67QIbVA9UwvTYK0_xBHwCvW5rNqzcTU-jxPK2pEf=w640-h360" width = 400 height = 300/>
+
+5-Scan Qr Code Page
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEjxh-QDv9sfKGAamyzEJOPaHkLU89i9CECoAYusZByLBMXA-T-PvjH5JEbUcOMhUNlQ-ef-s1TWvmUQAHVCmZMbnENqfbaAzPWhqlbEr1X3U9qLSQRzZ-YssN9ninOQuU5w5i3JbCEB70JtotAWG-2ZfE1aImCu3DyTcbPcoYzdUXIGzjuteubY19abTIH2=w640-h360" width = 400 height = 300/>
+
+6-
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEiGbwnLVkeC-ScspujeY9XQG4x4iPa24wO8_XfI2kK80p_zwZ3VJa9tig2zJ9XmsGM2LIZ9nyP6bK20XoxDi2xYAG8jNkXCoqr_0MwD4HW-HtcC-ku8kZuV5d0cj5VIQhpvWwun2_pp_a9ipqVaAfW_eFI9Ang78Z9pB0vEuaQNnNWkIBQnoqhExQLlnaIt=w640-h360" width = 400 height = 300/>
+
+7-Login Page
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEgg3pBGrtWL_mudQNNwOsWREkzh5Q5vMpEuNuWtVuAK8n9SZi726rK-p1CqoarICJ13m3qsrC0oCMjzH167hdqjhNoLKXIeqTwzLSaNikdK9Dha-Mo7xNqEd91v30i3CiPgC3P9dXsk-XxUVHdM9VYuSxudCa0-qi2NwY3p6tde05AOqHYQsjKwXuKXk7vX=w640-h360" width = 400 height = 300/>
+
+8-Home Page
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEgHBHZ4CIuYLkdxhY1ybMz4inDK8ksQycOWCcWFdUiTVmR56Wqg826kS_m4jNSi6CDGlWNDgnYRuASVe3PzBWYYQAQigcg7pfrSb37n7Aj77L4AsnNzaQeTV8KIzYw4j_XXo9eqkR0AOzjJlGys8FMhxf4rwgC1YiZdxNh8n5YRLBIvEUJMUI3B9t2F-INZ=w640-h360" width = 400 height = 300/>
+
+9-Get Cash Page
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEjFVwglBWwyyoebRUM0L6Mows4fMlLikdq4CYvrFD8mPZQIPPh4-rlSAeBXovh1cFsYrgJD3D-5x5GqZXdQJne8v9E4v6sNP_dvF2YxyJcAR4yrsuGK1WgaUYjxms0ye4jBiqgrmIUEJfKghcqFfD2LEUR8pxWojIRGySgsqI--lJ87D9_fjEiRJd-MqUL4=w640-h360" width = 400 height = 300/>
+
+10-Transaction Page
+
+<img src = "https://blogger.googleusercontent.com/img/a/AVvXsEh_1kJqDwhQF9bnJGAa-5BgewSGQUbxTwMLn44QlH7OngohoEJ_WdeB0wuXmc1HizOmD8vCFjz_zALtA4kshcjD7zt9WCUA0RiXPqE5VeuOQKvvgOzNzWpPWuv1jipw1Xot8pbqfXyQDkXZJeNpWGZ6Kk0jnXVde9DG13OyOIKlPPtIexS8umcorJwi2E6j=w640-h360" width = 400 height = 300/>
 
