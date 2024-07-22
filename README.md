@@ -1,4 +1,4 @@
-![photo_25_2024-07-20_19-56-18-portrait](https://github.com/user-attachments/assets/d0bd866a-8e82-42b2-8397-264007122674)# Green Egypt Repository
+# Green Egypt Repository
 
 ## 🏭 Green Egypt Eco System :
 
@@ -116,7 +116,7 @@ as we need to implement connection between all eco-system components , we implem
 
 1- Splash Page
 
-<img src = "![photo_2023-06-21_06-28-49_iphone13starlight_portrait (1)](https://github.com/user-attachments/assets/fe1e5e9b-eef1-403d-95ea-49e0bc7bd341)
+<img src = "(https://github.com/user-attachments/assets/fe1e5e9b-eef1-403d-95ea-49e0bc7bd341)
 " width = 250 height = 450/>
 
 2- Register Page 
