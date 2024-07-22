@@ -1,4 +1,4 @@
-![photo_11_2023-07-05_09-54-10_iphone13blue_portrait](https://github.com/user-attachments/assets/fba5dac1-2c29-450b-8a0a-7703b7971491)# Green Egypt Repository
+# Green Egypt Repository
 
 ## 🏭 Green Egypt Eco System :
 
