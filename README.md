@@ -140,7 +140,7 @@ as we need to implement connection between all eco-system components , we implem
 
 7-Scan Qr Code Page
 
-<img src = "https://github.com/user-attachments/assets/e5721edb-04a7-44aa-a9a3-bcbacbcf302a" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/3ff8321b-71b1-4733-8b9b-bcefa294f7b6" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/fc343606-9fa2-409b-8e8d-9051e6b10a4b" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/edb2a084-30ca-4f47-8d66-0bae9396d553" width = 250 height = 450/>
+<img src = "https://github.com/user-attachments/assets/e5721edb-04a7-44aa-a9a3-bcbacbcf302a" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/3ff8321b-71b1-4733-8b9b-bcefa294f7b6" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/fc343606-9fa2-409b-8e8d-9051e6b10a4b" width = 250 height = 450/>
 
 
 8-Transaction Screen
@@ -165,14 +165,13 @@ as we need to implement connection between all eco-system components , we implem
 
 13- localization Page
 
-<img src = "![WhatsApp Image 2023-07-07 at 04 10 46_iphone13blue_portrait](https://github.com/user-attachments/assets/a1646fff-b9fb-49ac-98fe-d20c95a42432)
-" width = 250 height = 450/>
+<img src = "https://github.com/user-attachments/assets/a1646fff-b9fb-49ac-98fe-d20c95a42432" width = 250 height = 450/>
 
-9-Theme Page
+14-Theme Page
 
 <img src = "https://github.com/user-attachments/assets/a8aec889-a48f-4aee-b7f6-361cf751f7aa" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/4370f79a-77d8-49d5-9dbe-f9f3c6c483ca" width = 250 height = 450/>
 
-10-Feedback Page
+15-Feedback Page
 
 <img src = "https://github.com/user-attachments/assets/980c07d6-22f3-4da7-8bab-a38ab4512d7d" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/eb6f82a7-b429-4fe0-b38d-ec1c13aa3f50" width = 250 height = 450/>
 
