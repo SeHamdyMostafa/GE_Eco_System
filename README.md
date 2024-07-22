@@ -183,12 +183,12 @@ as we need to implement connection between all eco-system components , we implem
 
 2-Info Page
 
-<img src = "https://github.com/user-attachments/assets/1a9bbb0a-69db-4593-89e4-677e9850c195" width = 500 height = 350/>
+<img src = "https://github.com/user-attachments/assets/1a9bbb0a-69db-4593-89e4-677e9850c195" width = 500 height = 400/>
 
 
 3- QR Code Page
 
-<img src = "https://github.com/user-attachments/assets/77575720-3a43-48f6-8bc1-51790febecf5" width = 500 height = 350/>
+<img src = "https://github.com/user-attachments/assets/77575720-3a43-48f6-8bc1-51790febecf5" width = 500 height = 400/>
 
 
 
