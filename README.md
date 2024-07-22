@@ -179,7 +179,7 @@ as we need to implement connection between all eco-system components , we implem
 
 1- Home Page
 
-<img src = "https://github.com/user-attachments/assets/6d40ddcd-adbf-4249-9099-e745e54e3b34" width = 450 height = 400/>
+<img src = "https://github.com/user-attachments/assets/6d40ddcd-adbf-4249-9099-e745e54e3b34" width = 450 height = 350/>
 
 2-Info Page
 
