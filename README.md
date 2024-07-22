@@ -138,17 +138,18 @@ as we need to implement connection between all eco-system components , we implem
 
 <img src = "https://github.com/user-attachments/assets/71d75a3e-8961-4072-9c13-b90334c2572e" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/b364d4c2-89fc-4db0-9c26-c95d388561d2" width = 250 height = 450/><img src ="https://github.com/user-attachments/assets/86aaff4b-22ef-485a-bb9d-c7539e47cf5d" width = 250 height = 450/>
 
-5-Scan Qr Code Page
+7-Scan Qr Code Page
 
-<img src = "" width = 250 height = 450/><img src = "" width = 250 height = 450/><img src = "" width = 250 height = 450/>
-
-
+<img src = "https://github.com/user-attachments/assets/e5721edb-04a7-44aa-a9a3-bcbacbcf302a" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/3ff8321b-71b1-4733-8b9b-bcefa294f7b6" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/fc343606-9fa2-409b-8e8d-9051e6b10a4b" width = 250 height = 450/>
 
 
+8-Transaction Screen
 
-8-Home Page
+<img src = "https://github.com/user-attachments/assets/6da3e400-0184-4c8f-b749-d5cdba71aa52" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/973fdb8b-14f3-474e-9f53-e069c554506e" width = 250 height = 450/>
 
-<img src = "" width = 250 height = 450/><img src = "" width = 250 height = 450/><img src = "" width = 250 height = 450/>
+9-More Page
+
+<img src = "![photo_15_2023-07-05_09-54-10_iphone13blue_portrait](https://github.com/user-attachments/assets/9665674c-69bd-4515-a5a3-2cdb51348e9c)" width = 250 height = 450/>
 
 9-Get Cash Page
 
