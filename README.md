@@ -112,7 +112,7 @@ as we need to implement connection between all eco-system components , we implem
 
 ## Future work 'Adding transactions cloud backup".
 
-## Mopile App gui
+## Mopile App Gui 📱
 
 1- Splash Page
 
@@ -175,20 +175,20 @@ as we need to implement connection between all eco-system components , we implem
 
 <img src = "https://github.com/user-attachments/assets/980c07d6-22f3-4da7-8bab-a38ab4512d7d" width = 250 height = 450/><img src = "https://github.com/user-attachments/assets/eb6f82a7-b429-4fe0-b38d-ec1c13aa3f50" width = 250 height = 450/>
 
-## tablet app gui
+## Tablet App Gui 💻
 
 1- Home Page
 
-<img src = "https://github.com/user-attachments/assets/6d40ddcd-adbf-4249-9099-e745e54e3b34" width = 250 height = 450/>
+<img src = "https://github.com/user-attachments/assets/6d40ddcd-adbf-4249-9099-e745e54e3b34" width = 450 height = 450/>
 
 2-Info Page
 
-<img src = "https://github.com/user-attachments/assets/1a9bbb0a-69db-4593-89e4-677e9850c195" width = 250 height = 450/>
+<img src = "https://github.com/user-attachments/assets/1a9bbb0a-69db-4593-89e4-677e9850c195" width = 450 height = 450/>
 
 
 3- QR Code Page
 
-<img src = "https://github.com/user-attachments/assets/77575720-3a43-48f6-8bc1-51790febecf5" width = 250 height = 450/>
+<img src = "https://github.com/user-attachments/assets/77575720-3a43-48f6-8bc1-51790febecf5" width = 450 height = 450/>
 
 
 
